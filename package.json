@@ -1,0 +1,17 @@
+{
+  "name": "wd-201-l4-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todo.js",
+  "scripts": {
+    "test": "jest",
+    "prepare": "husky install"
+  },
+  "author": "Avish Rangari <avish.rangari027654@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "husky": "^8.0.2",
+    "jest": "^29.3.1"
+  }
+}
